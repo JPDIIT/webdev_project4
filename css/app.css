@@ -49,3 +49,15 @@ body {
 .grid-container {
   background-color: rgba(0,0,200, 0.3);
 }
+
+#header_bar {
+  background-color: transparent;
+}
+
+#header_bar h1 {
+  color: white;
+}
+
+#main-nav {
+  width: 100%;
+}
