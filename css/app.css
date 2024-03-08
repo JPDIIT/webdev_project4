@@ -50,6 +50,14 @@ body {
   background-color: rgba(0,0,200, 0.3);
 }
 
+.portfolio-resume-headshot {
+  max-width: 5em;
+  max-height: 5em;
+  float: left;
+  margin-right: 0.5em;
+  margin-left: 0.5em;
+}
+
 #header_bar {
   background-color: transparent;
 }
