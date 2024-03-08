@@ -34,3 +34,18 @@
   vertical-align: middle;
   color: #0a0a0a;
 }
+
+/* My customizations*/
+
+body {
+  background: url("../images/star_chart.png");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: black;
+  color: white;
+}
+
+.grid-container {
+  background-color: rgba(0,0,200, 0.3);
+}
